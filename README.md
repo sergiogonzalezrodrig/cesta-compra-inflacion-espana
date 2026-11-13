@@ -163,3 +163,8 @@ python notebooks/01_limpieza_mapa.py
 python notebooks/02_ipc_y_union.py
 python notebooks/03_kpis_cuadrantes.py
 ```
+
+---
+
+**Autor:** Sergio González Rodríguez · Máster en Business Analytics (Universidad Nebrija × Microsoft)
+**Herramientas:** Python (pandas) · Power BI (Power Query, DAX) · datos abiertos del INE y del MAPA
