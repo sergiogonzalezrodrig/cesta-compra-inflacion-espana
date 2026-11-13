@@ -1,0 +1,25 @@
+producto;familia;orden_familia
+Total alimentación;Total;0
+Huevos;Proteínas;1
+Pollo;Proteínas;1
+Cerdo;Proteínas;1
+Vacuno;Proteínas;1
+Pescado;Proteínas;1
+Legumbres;Proteínas;1
+Leche líquida;Lácteos;2
+Yogur;Lácteos;2
+Queso;Lácteos;2
+Pan;Cereales y pan;3
+Arroz;Cereales y pan;3
+Pasta;Cereales y pan;3
+Aceite de oliva;Aceites y azúcar;4
+Aceite de girasol;Aceites y azúcar;4
+Azúcar;Aceites y azúcar;4
+Patatas frescas;Frutas y hortalizas;5
+Frutas frescas;Frutas y hortalizas;5
+Plátanos;Frutas y hortalizas;5
+Hortalizas frescas;Frutas y hortalizas;5
+Tomates;Frutas y hortalizas;5
+Café e infusiones;Bebidas;6
+Cerveza;Bebidas;6
+Agua envasada;Bebidas;6

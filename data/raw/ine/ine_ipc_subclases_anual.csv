@@ -1,0 +1,428 @@
+Subclases ECOICOP ver.2;Tipo de dato;Periodo;Total
+Índice general;Media anual;2025;100,000
+Índice general;Media anual;2024;97,397
+Índice general;Media anual;2023;94,768
+Índice general;Media anual;2022;91,534
+Índice general;Media anual;2021;84,448
+Índice general;Media anual;2020;81,915
+Índice general;Media anual;2019;82,180
+01.1.1.1 Cereales ;Media anual;2025;100,000
+01.1.1.1 Cereales ;Media anual;2024;97,256
+01.1.1.1 Cereales ;Media anual;2023;95,953
+01.1.1.1 Cereales ;Media anual;2022;80,412
+01.1.1.1 Cereales ;Media anual;2021;71,710
+01.1.1.1 Cereales ;Media anual;2020;71,424
+01.1.1.1 Cereales ;Media anual;2019;70,623
+01.1.1.2 Harina de cereales ;Media anual;2025;100,000
+01.1.1.2 Harina de cereales ;Media anual;2024;97,237
+01.1.1.2 Harina de cereales ;Media anual;2023;97,299
+01.1.1.2 Harina de cereales ;Media anual;2022;89,723
+01.1.1.2 Harina de cereales ;Media anual;2021;69,754
+01.1.1.2 Harina de cereales ;Media anual;2020;68,906
+01.1.1.2 Harina de cereales ;Media anual;2019;68,460
+01.1.1.3 Pan y productos de panadería ;Media anual;2025;100,000
+01.1.1.3 Pan y productos de panadería ;Media anual;2024;99,198
+01.1.1.3 Pan y productos de panadería ;Media anual;2023;97,676
+01.1.1.3 Pan y productos de panadería ;Media anual;2022;88,283
+01.1.1.3 Pan y productos de panadería ;Media anual;2021;76,791
+01.1.1.3 Pan y productos de panadería ;Media anual;2020;76,275
+01.1.1.3 Pan y productos de panadería ;Media anual;2019;75,789
+01.1.1.4 Cereales de desayuno;Media anual;2025;100,000
+01.1.1.4 Cereales de desayuno;Media anual;2024;96,354
+01.1.1.4 Cereales de desayuno;Media anual;2023;94,032
+01.1.1.4 Cereales de desayuno;Media anual;2022;82,621
+01.1.1.4 Cereales de desayuno;Media anual;2021;77,444
+01.1.1.4 Cereales de desayuno;Media anual;2020;77,866
+01.1.1.4 Cereales de desayuno;Media anual;2019;75,480
+01.1.1.5 Macarrones, tallarines, cuscús y pastas alimenticias similares ;Media anual;2025;100,000
+01.1.1.5 Macarrones, tallarines, cuscús y pastas alimenticias similares ;Media anual;2024;98,851
+01.1.1.5 Macarrones, tallarines, cuscús y pastas alimenticias similares ;Media anual;2023;98,130
+01.1.1.5 Macarrones, tallarines, cuscús y pastas alimenticias similares ;Media anual;2022;96,765
+01.1.1.5 Macarrones, tallarines, cuscús y pastas alimenticias similares ;Media anual;2021;73,666
+01.1.1.5 Macarrones, tallarines, cuscús y pastas alimenticias similares ;Media anual;2020;70,810
+01.1.1.5 Macarrones, tallarines, cuscús y pastas alimenticias similares ;Media anual;2019;69,895
+01.1.1.9 Otros productos a base de cereales y de grano molidos ;Media anual;2025;100,000
+01.1.1.9 Otros productos a base de cereales y de grano molidos ;Media anual;2024;100,867
+01.1.1.9 Otros productos a base de cereales y de grano molidos ;Media anual;2023;100,707
+01.1.1.9 Otros productos a base de cereales y de grano molidos ;Media anual;2022;92,065
+01.1.1.9 Otros productos a base de cereales y de grano molidos ;Media anual;2021;84,057
+01.1.1.9 Otros productos a base de cereales y de grano molidos ;Media anual;2020;84,631
+01.1.1.9 Otros productos a base de cereales y de grano molidos ;Media anual;2019;84,296
+01.1.2.2 Carne, fresca, refrigerada o congelada;Media anual;2025;100,000
+01.1.2.2 Carne, fresca, refrigerada o congelada;Media anual;2024;94,459
+01.1.2.2 Carne, fresca, refrigerada o congelada;Media anual;2023;91,673
+01.1.2.2 Carne, fresca, refrigerada o congelada;Media anual;2022;83,448
+01.1.2.2 Carne, fresca, refrigerada o congelada;Media anual;2021;75,108
+01.1.2.2 Carne, fresca, refrigerada o congelada;Media anual;2020;73,653
+01.1.2.2 Carne, fresca, refrigerada o congelada;Media anual;2019;71,597
+01.1.2.3 Carne, seca, salada, en salmuera o ahumada;Media anual;2025;100,000
+01.1.2.3 Carne, seca, salada, en salmuera o ahumada;Media anual;2024;96,183
+01.1.2.3 Carne, seca, salada, en salmuera o ahumada;Media anual;2023;93,388
+01.1.2.3 Carne, seca, salada, en salmuera o ahumada;Media anual;2022;84,978
+01.1.2.3 Carne, seca, salada, en salmuera o ahumada;Media anual;2021;80,505
+01.1.2.3 Carne, seca, salada, en salmuera o ahumada;Media anual;2020;80,237
+01.1.2.3 Carne, seca, salada, en salmuera o ahumada;Media anual;2019;76,556
+01.1.2.4 Despojos comestibles;Media anual;2025;100,000
+01.1.2.4 Despojos comestibles;Media anual;2024;93,550
+01.1.2.4 Despojos comestibles;Media anual;2023;90,230
+01.1.2.4 Despojos comestibles;Media anual;2022;83,590
+01.1.2.4 Despojos comestibles;Media anual;2021;78,084
+01.1.2.4 Despojos comestibles;Media anual;2020;75,283
+01.1.2.4 Despojos comestibles;Media anual;2019;74,304
+01.1.2.5 Preparados de carne y despojos;Media anual;2025;100,000
+01.1.2.5 Preparados de carne y despojos;Media anual;2024;95,751
+01.1.2.5 Preparados de carne y despojos;Media anual;2023;94,364
+01.1.2.5 Preparados de carne y despojos;Media anual;2022;84,923
+01.1.2.5 Preparados de carne y despojos;Media anual;2021;77,229
+01.1.2.5 Preparados de carne y despojos;Media anual;2020;76,476
+01.1.2.5 Preparados de carne y despojos;Media anual;2019;74,549
+01.1.3.1 Pescado,  fresco, refrigerado o congelado;Media anual;2025;100,000
+01.1.3.1 Pescado,  fresco, refrigerado o congelado;Media anual;2024;95,275
+01.1.3.1 Pescado,  fresco, refrigerado o congelado;Media anual;2023;91,012
+01.1.3.1 Pescado,  fresco, refrigerado o congelado;Media anual;2022;85,654
+01.1.3.1 Pescado,  fresco, refrigerado o congelado;Media anual;2021;78,348
+01.1.3.1 Pescado,  fresco, refrigerado o congelado;Media anual;2020;76,910
+01.1.3.1 Pescado,  fresco, refrigerado o congelado;Media anual;2019;74,384
+01.1.3.2 Pescado, seco, salado, en salmuera o ahumado;Media anual;2025;100,000
+01.1.3.2 Pescado, seco, salado, en salmuera o ahumado;Media anual;2024;98,397
+01.1.3.2 Pescado, seco, salado, en salmuera o ahumado;Media anual;2023;96,794
+01.1.3.2 Pescado, seco, salado, en salmuera o ahumado;Media anual;2022;85,513
+01.1.3.2 Pescado, seco, salado, en salmuera o ahumado;Media anual;2021;78,318
+01.1.3.2 Pescado, seco, salado, en salmuera o ahumado;Media anual;2020;77,390
+01.1.3.2 Pescado, seco, salado, en salmuera o ahumado;Media anual;2019;75,974
+01.1.3.3 Preparados de pescado;Media anual;2025;100,000
+01.1.3.3 Preparados de pescado;Media anual;2024;99,118
+01.1.3.3 Preparados de pescado;Media anual;2023;95,454
+01.1.3.3 Preparados de pescado;Media anual;2022;86,149
+01.1.3.3 Preparados de pescado;Media anual;2021;78,205
+01.1.3.3 Preparados de pescado;Media anual;2020;78,087
+01.1.3.3 Preparados de pescado;Media anual;2019;76,371
+01.1.3.4 Marisco, vivo, fresco, refrigerado o congelado;Media anual;2025;100,000
+01.1.3.4 Marisco, vivo, fresco, refrigerado o congelado;Media anual;2024;96,865
+01.1.3.4 Marisco, vivo, fresco, refrigerado o congelado;Media anual;2023;95,813
+01.1.3.4 Marisco, vivo, fresco, refrigerado o congelado;Media anual;2022;91,862
+01.1.3.4 Marisco, vivo, fresco, refrigerado o congelado;Media anual;2021;85,438
+01.1.3.4 Marisco, vivo, fresco, refrigerado o congelado;Media anual;2020;83,335
+01.1.3.4 Marisco, vivo, fresco, refrigerado o congelado;Media anual;2019;83,191
+01.1.3.6 Preparados de marisco;Media anual;2025;100,000
+01.1.3.6 Preparados de marisco;Media anual;2024;96,670
+01.1.3.6 Preparados de marisco;Media anual;2023;91,311
+01.1.3.6 Preparados de marisco;Media anual;2022;80,299
+01.1.3.6 Preparados de marisco;Media anual;2021;71,194
+01.1.3.6 Preparados de marisco;Media anual;2020;68,905
+01.1.3.6 Preparados de marisco;Media anual;2019;67,270
+01.1.4.1 Leche entera;Media anual;2025;100,000
+01.1.4.1 Leche entera;Media anual;2024;95,199
+01.1.4.1 Leche entera;Media anual;2023;95,143
+01.1.4.1 Leche entera;Media anual;2022;80,314
+01.1.4.1 Leche entera;Media anual;2021;66,525
+01.1.4.1 Leche entera;Media anual;2020;65,916
+01.1.4.1 Leche entera;Media anual;2019;65,690
+01.1.4.2 Leche desnatada y semidesnatada;Media anual;2025;100,000
+01.1.4.2 Leche desnatada y semidesnatada;Media anual;2024;98,086
+01.1.4.2 Leche desnatada y semidesnatada;Media anual;2023;100,733
+01.1.4.2 Leche desnatada y semidesnatada;Media anual;2022;85,841
+01.1.4.2 Leche desnatada y semidesnatada;Media anual;2021;71,061
+01.1.4.2 Leche desnatada y semidesnatada;Media anual;2020;70,578
+01.1.4.2 Leche desnatada y semidesnatada;Media anual;2019;70,212
+01.1.4.3 Otra leche y nata;Media anual;2025;100,000
+01.1.4.3 Otra leche y nata;Media anual;2024;98,707
+01.1.4.3 Otra leche y nata;Media anual;2023;98,092
+01.1.4.3 Otra leche y nata;Media anual;2022;80,192
+01.1.4.3 Otra leche y nata;Media anual;2021;67,652
+01.1.4.3 Otra leche y nata;Media anual;2020;69,062
+01.1.4.3 Otra leche y nata;Media anual;2019;""
+01.1.4.4 Bebida vegetal;Media anual;2025;100,000
+01.1.4.4 Bebida vegetal;Media anual;2024;100,058
+01.1.4.4 Bebida vegetal;Media anual;2023;99,216
+01.1.4.4 Bebida vegetal;Media anual;2022;90,102
+01.1.4.4 Bebida vegetal;Media anual;2021;86,664
+01.1.4.4 Bebida vegetal;Media anual;2020;87,078
+01.1.4.4 Bebida vegetal;Media anual;2019;""
+01.1.4.5 Queso;Media anual;2025;100,000
+01.1.4.5 Queso;Media anual;2024;95,417
+01.1.4.5 Queso;Media anual;2023;93,596
+01.1.4.5 Queso;Media anual;2022;83,163
+01.1.4.5 Queso;Media anual;2021;74,276
+01.1.4.5 Queso;Media anual;2020;73,566
+01.1.4.5 Queso;Media anual;2019;72,528
+01.1.4.6 Yogur y productos similares;Media anual;2025;100,000
+01.1.4.6 Yogur y productos similares;Media anual;2024;102,932
+01.1.4.6 Yogur y productos similares;Media anual;2023;103,450
+01.1.4.6 Yogur y productos similares;Media anual;2022;93,605
+01.1.4.6 Yogur y productos similares;Media anual;2021;81,093
+01.1.4.6 Yogur y productos similares;Media anual;2020;81,360
+01.1.4.6 Yogur y productos similares;Media anual;2019;80,235
+01.1.4.7 Postres y bebidas a base de leche;Media anual;2025;100,000
+01.1.4.7 Postres y bebidas a base de leche;Media anual;2024;97,955
+01.1.4.7 Postres y bebidas a base de leche;Media anual;2023;98,572
+01.1.4.7 Postres y bebidas a base de leche;Media anual;2022;85,170
+01.1.4.7 Postres y bebidas a base de leche;Media anual;2021;75,658
+01.1.4.7 Postres y bebidas a base de leche;Media anual;2020;75,626
+01.1.4.7 Postres y bebidas a base de leche;Media anual;2019;73,984
+01.1.4.8 Huevos;Media anual;2025;100,000
+01.1.4.8 Huevos;Media anual;2024;85,078
+01.1.4.8 Huevos;Media anual;2023;83,292
+01.1.4.8 Huevos;Media anual;2022;72,832
+01.1.4.8 Huevos;Media anual;2021;60,385
+01.1.4.8 Huevos;Media anual;2020;59,204
+01.1.4.8 Huevos;Media anual;2019;59,185
+01.1.5.1 Aceites vegetales;Media anual;2025;100,000
+01.1.5.1 Aceites vegetales;Media anual;2024;149,808
+01.1.5.1 Aceites vegetales;Media anual;2023;118,884
+01.1.5.1 Aceites vegetales;Media anual;2022;91,259
+01.1.5.1 Aceites vegetales;Media anual;2021;68,631
+01.1.5.1 Aceites vegetales;Media anual;2020;59,320
+01.1.5.1 Aceites vegetales;Media anual;2019;63,349
+01.1.5.2 Mantequilla y otros aceites y grasas derivados de la leche;Media anual;2025;100,000
+01.1.5.2 Mantequilla y otros aceites y grasas derivados de la leche;Media anual;2024;94,504
+01.1.5.2 Mantequilla y otros aceites y grasas derivados de la leche;Media anual;2023;95,200
+01.1.5.2 Mantequilla y otros aceites y grasas derivados de la leche;Media anual;2022;79,697
+01.1.5.2 Mantequilla y otros aceites y grasas derivados de la leche;Media anual;2021;64,741
+01.1.5.2 Mantequilla y otros aceites y grasas derivados de la leche;Media anual;2020;65,481
+01.1.5.2 Mantequilla y otros aceites y grasas derivados de la leche;Media anual;2019;65,586
+01.1.6.1 Frutas tropicales, dátiles e higos;Media anual;2025;100,000
+01.1.6.1 Frutas tropicales, dátiles e higos;Media anual;2024;87,008
+01.1.6.1 Frutas tropicales, dátiles e higos;Media anual;2023;77,552
+01.1.6.1 Frutas tropicales, dátiles e higos;Media anual;2022;96,022
+01.1.6.1 Frutas tropicales, dátiles e higos;Media anual;2021;75,039
+01.1.6.1 Frutas tropicales, dátiles e higos;Media anual;2020;73,571
+01.1.6.1 Frutas tropicales, dátiles e higos;Media anual;2019;73,388
+01.1.6.2 Cítricos frescos;Media anual;2025;100,000
+01.1.6.2 Cítricos frescos;Media anual;2024;95,492
+01.1.6.2 Cítricos frescos;Media anual;2023;93,137
+01.1.6.2 Cítricos frescos;Media anual;2022;82,648
+01.1.6.2 Cítricos frescos;Media anual;2021;79,325
+01.1.6.2 Cítricos frescos;Media anual;2020;77,633
+01.1.6.2 Cítricos frescos;Media anual;2019;69,890
+01.1.6.3 Frutas de hueso y frutas de pepita, frescas;Media anual;2025;100,000
+01.1.6.3 Frutas de hueso y frutas de pepita, frescas;Media anual;2024;92,861
+01.1.6.3 Frutas de hueso y frutas de pepita, frescas;Media anual;2023;90,830
+01.1.6.3 Frutas de hueso y frutas de pepita, frescas;Media anual;2022;82,696
+01.1.6.3 Frutas de hueso y frutas de pepita, frescas;Media anual;2021;76,843
+01.1.6.3 Frutas de hueso y frutas de pepita, frescas;Media anual;2020;73,134
+01.1.6.3 Frutas de hueso y frutas de pepita, frescas;Media anual;2019;66,529
+01.1.6.4 Bayas frescas;Media anual;2025;100,000
+01.1.6.4 Bayas frescas;Media anual;2024;95,456
+01.1.6.4 Bayas frescas;Media anual;2023;99,474
+01.1.6.4 Bayas frescas;Media anual;2022;87,037
+01.1.6.4 Bayas frescas;Media anual;2021;80,352
+01.1.6.4 Bayas frescas;Media anual;2020;65,900
+01.1.6.4 Bayas frescas;Media anual;2019;62,184
+01.1.6.5 Otras frutas frescas;Media anual;2025;100,000
+01.1.6.5 Otras frutas frescas;Media anual;2024;97,413
+01.1.6.5 Otras frutas frescas;Media anual;2023;91,370
+01.1.6.5 Otras frutas frescas;Media anual;2022;79,652
+01.1.6.5 Otras frutas frescas;Media anual;2021;71,538
+01.1.6.5 Otras frutas frescas;Media anual;2020;71,360
+01.1.6.5 Otras frutas frescas;Media anual;2019;65,548
+01.1.6.8 Frutos secos naturales, con o sin cáscara;Media anual;2025;100,000
+01.1.6.8 Frutos secos naturales, con o sin cáscara;Media anual;2024;92,915
+01.1.6.8 Frutos secos naturales, con o sin cáscara;Media anual;2023;94,217
+01.1.6.8 Frutos secos naturales, con o sin cáscara;Media anual;2022;94,452
+01.1.6.8 Frutos secos naturales, con o sin cáscara;Media anual;2021;93,491
+01.1.6.8 Frutos secos naturales, con o sin cáscara;Media anual;2020;95,026
+01.1.6.8 Frutos secos naturales, con o sin cáscara;Media anual;2019;93,163
+01.1.6.9 Frutas y frutos secos procesados (en conserva, tostados, molidos, etc.);Media anual;2025;100,000
+01.1.6.9 Frutas y frutos secos procesados (en conserva, tostados, molidos, etc.);Media anual;2024;96,032
+01.1.6.9 Frutas y frutos secos procesados (en conserva, tostados, molidos, etc.);Media anual;2023;95,832
+01.1.6.9 Frutas y frutos secos procesados (en conserva, tostados, molidos, etc.);Media anual;2022;90,217
+01.1.6.9 Frutas y frutos secos procesados (en conserva, tostados, molidos, etc.);Media anual;2021;85,598
+01.1.6.9 Frutas y frutos secos procesados (en conserva, tostados, molidos, etc.);Media anual;2020;86,318
+01.1.6.9 Frutas y frutos secos procesados (en conserva, tostados, molidos, etc.);Media anual;2019;85,040
+01.1.7.1 Hortalizas de hoja o de tallo, frescas o refrigeradas;Media anual;2025;100,000
+01.1.7.1 Hortalizas de hoja o de tallo, frescas o refrigeradas;Media anual;2024;95,752
+01.1.7.1 Hortalizas de hoja o de tallo, frescas o refrigeradas;Media anual;2023;94,995
+01.1.7.1 Hortalizas de hoja o de tallo, frescas o refrigeradas;Media anual;2022;82,717
+01.1.7.1 Hortalizas de hoja o de tallo, frescas o refrigeradas;Media anual;2021;78,499
+01.1.7.1 Hortalizas de hoja o de tallo, frescas o refrigeradas;Media anual;2020;77,154
+01.1.7.1 Hortalizas de hoja o de tallo, frescas o refrigeradas;Media anual;2019;74,426
+01.1.7.2 Hortalizas cultivadas por su fruto, frescas o refrigeradas;Media anual;2025;100,000
+01.1.7.2 Hortalizas cultivadas por su fruto, frescas o refrigeradas;Media anual;2024;95,441
+01.1.7.2 Hortalizas cultivadas por su fruto, frescas o refrigeradas;Media anual;2023;99,187
+01.1.7.2 Hortalizas cultivadas por su fruto, frescas o refrigeradas;Media anual;2022;91,975
+01.1.7.2 Hortalizas cultivadas por su fruto, frescas o refrigeradas;Media anual;2021;78,092
+01.1.7.2 Hortalizas cultivadas por su fruto, frescas o refrigeradas;Media anual;2020;76,824
+01.1.7.2 Hortalizas cultivadas por su fruto, frescas o refrigeradas;Media anual;2019;73,945
+01.1.7.3 Legumbres verdes, frescas o refrigeradas;Media anual;2025;100,000
+01.1.7.3 Legumbres verdes, frescas o refrigeradas;Media anual;2024;90,197
+01.1.7.3 Legumbres verdes, frescas o refrigeradas;Media anual;2023;89,567
+01.1.7.3 Legumbres verdes, frescas o refrigeradas;Media anual;2022;77,668
+01.1.7.3 Legumbres verdes, frescas o refrigeradas;Media anual;2021;66,399
+01.1.7.3 Legumbres verdes, frescas o refrigeradas;Media anual;2020;69,534
+01.1.7.3 Legumbres verdes, frescas o refrigeradas;Media anual;2019;69,808
+01.1.7.4 Otras hortalizas, frescas o refrigeradas;Media anual;2025;100,000
+01.1.7.4 Otras hortalizas, frescas o refrigeradas;Media anual;2024;95,259
+01.1.7.4 Otras hortalizas, frescas o refrigeradas;Media anual;2023;93,691
+01.1.7.4 Otras hortalizas, frescas o refrigeradas;Media anual;2022;76,509
+01.1.7.4 Otras hortalizas, frescas o refrigeradas;Media anual;2021;72,324
+01.1.7.4 Otras hortalizas, frescas o refrigeradas;Media anual;2020;70,383
+01.1.7.4 Otras hortalizas, frescas o refrigeradas;Media anual;2019;69,880
+01.1.7.5 Patatas y otros tubérculos;Media anual;2025;100,000
+01.1.7.5 Patatas y otros tubérculos;Media anual;2024;99,252
+01.1.7.5 Patatas y otros tubérculos;Media anual;2023;91,040
+01.1.7.5 Patatas y otros tubérculos;Media anual;2022;76,867
+01.1.7.5 Patatas y otros tubérculos;Media anual;2021;69,045
+01.1.7.5 Patatas y otros tubérculos;Media anual;2020;68,797
+01.1.7.5 Patatas y otros tubérculos;Media anual;2019;69,758
+01.1.7.6 Legumbres secas;Media anual;2025;100,000
+01.1.7.6 Legumbres secas;Media anual;2024;97,065
+01.1.7.6 Legumbres secas;Media anual;2023;94,491
+01.1.7.6 Legumbres secas;Media anual;2022;86,606
+01.1.7.6 Legumbres secas;Media anual;2021;76,467
+01.1.7.6 Legumbres secas;Media anual;2020;77,472
+01.1.7.6 Legumbres secas;Media anual;2019;77,272
+01.1.7.8 Hortalizas y tubérculos, congelados;Media anual;2025;100,000
+01.1.7.8 Hortalizas y tubérculos, congelados;Media anual;2024;96,402
+01.1.7.8 Hortalizas y tubérculos, congelados;Media anual;2023;91,404
+01.1.7.8 Hortalizas y tubérculos, congelados;Media anual;2022;80,585
+01.1.7.8 Hortalizas y tubérculos, congelados;Media anual;2021;71,131
+01.1.7.8 Hortalizas y tubérculos, congelados;Media anual;2020;71,425
+01.1.7.8 Hortalizas y tubérculos, congelados;Media anual;2019;70,055
+01.1.7.9 Hortalizas, tubérculos y legumbres, molidos y en otras preparaciones;Media anual;2025;100,000
+01.1.7.9 Hortalizas, tubérculos y legumbres, molidos y en otras preparaciones;Media anual;2024;97,652
+01.1.7.9 Hortalizas, tubérculos y legumbres, molidos y en otras preparaciones;Media anual;2023;93,028
+01.1.7.9 Hortalizas, tubérculos y legumbres, molidos y en otras preparaciones;Media anual;2022;82,378
+01.1.7.9 Hortalizas, tubérculos y legumbres, molidos y en otras preparaciones;Media anual;2021;74,493
+01.1.7.9 Hortalizas, tubérculos y legumbres, molidos y en otras preparaciones;Media anual;2020;73,705
+01.1.7.9 Hortalizas, tubérculos y legumbres, molidos y en otras preparaciones;Media anual;2019;72,739
+01.1.8.1 Azúcar de caña y azúcar de remolacha;Media anual;2025;100,000
+01.1.8.1 Azúcar de caña y azúcar de remolacha;Media anual;2024;118,278
+01.1.8.1 Azúcar de caña y azúcar de remolacha;Media anual;2023;118,006
+01.1.8.1 Azúcar de caña y azúcar de remolacha;Media anual;2022;87,599
+01.1.8.1 Azúcar de caña y azúcar de remolacha;Media anual;2021;75,170
+01.1.8.1 Azúcar de caña y azúcar de remolacha;Media anual;2020;75,425
+01.1.8.1 Azúcar de caña y azúcar de remolacha;Media anual;2019;70,531
+01.1.8.3 Confituras, mermeladas, jaleas, purés y pastas de frutas, y miel;Media anual;2025;100,000
+01.1.8.3 Confituras, mermeladas, jaleas, purés y pastas de frutas, y miel;Media anual;2024;100,118
+01.1.8.3 Confituras, mermeladas, jaleas, purés y pastas de frutas, y miel;Media anual;2023;99,097
+01.1.8.3 Confituras, mermeladas, jaleas, purés y pastas de frutas, y miel;Media anual;2022;85,874
+01.1.8.3 Confituras, mermeladas, jaleas, purés y pastas de frutas, y miel;Media anual;2021;76,936
+01.1.8.3 Confituras, mermeladas, jaleas, purés y pastas de frutas, y miel;Media anual;2020;76,236
+01.1.8.3 Confituras, mermeladas, jaleas, purés y pastas de frutas, y miel;Media anual;2019;75,168
+01.1.8.5 Chocolate, cacao y productos alimenticios a base de cacao;Media anual;2025;100,000
+01.1.8.5 Chocolate, cacao y productos alimenticios a base de cacao;Media anual;2024;84,697
+01.1.8.5 Chocolate, cacao y productos alimenticios a base de cacao;Media anual;2023;74,788
+01.1.8.5 Chocolate, cacao y productos alimenticios a base de cacao;Media anual;2022;66,690
+01.1.8.5 Chocolate, cacao y productos alimenticios a base de cacao;Media anual;2021;63,190
+01.1.8.5 Chocolate, cacao y productos alimenticios a base de cacao;Media anual;2020;63,267
+01.1.8.5 Chocolate, cacao y productos alimenticios a base de cacao;Media anual;2019;62,672
+01.1.8.6 Hielo, helados y sorbetes;Media anual;2025;100,000
+01.1.8.6 Hielo, helados y sorbetes;Media anual;2024;96,654
+01.1.8.6 Hielo, helados y sorbetes;Media anual;2023;93,787
+01.1.8.6 Hielo, helados y sorbetes;Media anual;2022;80,453
+01.1.8.6 Hielo, helados y sorbetes;Media anual;2021;74,222
+01.1.8.6 Hielo, helados y sorbetes;Media anual;2020;74,345
+01.1.8.6 Hielo, helados y sorbetes;Media anual;2019;74,220
+01.1.8.9 Otros productos de confitería y postres n.c.o.p.;Media anual;2025;100,000
+01.1.8.9 Otros productos de confitería y postres n.c.o.p.;Media anual;2024;98,154
+01.1.8.9 Otros productos de confitería y postres n.c.o.p.;Media anual;2023;92,392
+01.1.8.9 Otros productos de confitería y postres n.c.o.p.;Media anual;2022;78,966
+01.1.8.9 Otros productos de confitería y postres n.c.o.p.;Media anual;2021;74,346
+01.1.8.9 Otros productos de confitería y postres n.c.o.p.;Media anual;2020;73,315
+01.1.8.9 Otros productos de confitería y postres n.c.o.p.;Media anual;2019;73,021
+01.1.9.1 Alimentos preparados;Media anual;2025;100,000
+01.1.9.1 Alimentos preparados;Media anual;2024;99,516
+01.1.9.1 Alimentos preparados;Media anual;2023;98,613
+01.1.9.1 Alimentos preparados;Media anual;2022;87,449
+01.1.9.1 Alimentos preparados;Media anual;2021;80,017
+01.1.9.1 Alimentos preparados;Media anual;2020;79,882
+01.1.9.1 Alimentos preparados;Media anual;2019;78,271
+01.1.9.2 Alimentos para bebé;Media anual;2025;100,000
+01.1.9.2 Alimentos para bebé;Media anual;2024;99,646
+01.1.9.2 Alimentos para bebé;Media anual;2023;99,627
+01.1.9.2 Alimentos para bebé;Media anual;2022;86,326
+01.1.9.2 Alimentos para bebé;Media anual;2021;77,275
+01.1.9.2 Alimentos para bebé;Media anual;2020;76,969
+01.1.9.2 Alimentos para bebé;Media anual;2019;76,537
+01.1.9.3 Sal, condimentos y salsas;Media anual;2025;100,000
+01.1.9.3 Sal, condimentos y salsas;Media anual;2024;101,088
+01.1.9.3 Sal, condimentos y salsas;Media anual;2023;100,381
+01.1.9.3 Sal, condimentos y salsas;Media anual;2022;83,700
+01.1.9.3 Sal, condimentos y salsas;Media anual;2021;69,372
+01.1.9.3 Sal, condimentos y salsas;Media anual;2020;69,008
+01.1.9.3 Sal, condimentos y salsas;Media anual;2019;68,193
+01.1.9.4 Especias, hierbas culinarias y semillas;Media anual;2025;100,000
+01.1.9.4 Especias, hierbas culinarias y semillas;Media anual;2024;96,899
+01.1.9.4 Especias, hierbas culinarias y semillas;Media anual;2023;91,205
+01.1.9.4 Especias, hierbas culinarias y semillas;Media anual;2022;80,972
+01.1.9.4 Especias, hierbas culinarias y semillas;Media anual;2021;73,934
+01.1.9.4 Especias, hierbas culinarias y semillas;Media anual;2020;72,605
+01.1.9.4 Especias, hierbas culinarias y semillas;Media anual;2019;71,644
+01.1.9.9 Otros productos alimenticios n.c.o.p.;Media anual;2025;100,000
+01.1.9.9 Otros productos alimenticios n.c.o.p.;Media anual;2024;96,635
+01.1.9.9 Otros productos alimenticios n.c.o.p.;Media anual;2023;94,282
+01.1.9.9 Otros productos alimenticios n.c.o.p.;Media anual;2022;85,363
+01.1.9.9 Otros productos alimenticios n.c.o.p.;Media anual;2021;81,020
+01.1.9.9 Otros productos alimenticios n.c.o.p.;Media anual;2020;80,819
+01.1.9.9 Otros productos alimenticios n.c.o.p.;Media anual;2019;80,715
+01.2.1.0 Zumos de frutas y hortalizas;Media anual;2025;100,000
+01.2.1.0 Zumos de frutas y hortalizas;Media anual;2024;97,581
+01.2.1.0 Zumos de frutas y hortalizas;Media anual;2023;83,666
+01.2.1.0 Zumos de frutas y hortalizas;Media anual;2022;71,536
+01.2.1.0 Zumos de frutas y hortalizas;Media anual;2021;64,885
+01.2.1.0 Zumos de frutas y hortalizas;Media anual;2020;62,147
+01.2.1.0 Zumos de frutas y hortalizas;Media anual;2019;61,312
+01.2.2.0 Café y sucedáneos de café;Media anual;2025;100,000
+01.2.2.0 Café y sucedáneos de café;Media anual;2024;84,844
+01.2.2.0 Café y sucedáneos de café;Media anual;2023;81,234
+01.2.2.0 Café y sucedáneos de café;Media anual;2022;75,820
+01.2.2.0 Café y sucedáneos de café;Media anual;2021;68,501
+01.2.2.0 Café y sucedáneos de café;Media anual;2020;68,267
+01.2.2.0 Café y sucedáneos de café;Media anual;2019;67,986
+01.2.3.0 Té y otros productos vegetales para infusiones;Media anual;2025;100,000
+01.2.3.0 Té y otros productos vegetales para infusiones;Media anual;2024;97,411
+01.2.3.0 Té y otros productos vegetales para infusiones;Media anual;2023;96,455
+01.2.3.0 Té y otros productos vegetales para infusiones;Media anual;2022;85,888
+01.2.3.0 Té y otros productos vegetales para infusiones;Media anual;2021;78,135
+01.2.3.0 Té y otros productos vegetales para infusiones;Media anual;2020;76,286
+01.2.3.0 Té y otros productos vegetales para infusiones;Media anual;2019;74,659
+01.2.5.0 Agua;Media anual;2025;100,000
+01.2.5.0 Agua;Media anual;2024;96,517
+01.2.5.0 Agua;Media anual;2023;93,445
+01.2.5.0 Agua;Media anual;2022;83,952
+01.2.5.0 Agua;Media anual;2021;77,600
+01.2.5.0 Agua;Media anual;2020;76,736
+01.2.5.0 Agua;Media anual;2019;74,987
+01.2.6.0 Refrescos;Media anual;2025;100,000
+01.2.6.0 Refrescos;Media anual;2024;98,582
+01.2.6.0 Refrescos;Media anual;2023;98,534
+01.2.6.0 Refrescos;Media anual;2022;86,767
+01.2.6.0 Refrescos;Media anual;2021;81,784
+01.2.6.0 Refrescos;Media anual;2020;74,310
+01.2.6.0 Refrescos;Media anual;2019;72,521
+01.2.9.0 Otras bebidas no alcohólicas;Media anual;2025;100,000
+01.2.9.0 Otras bebidas no alcohólicas;Media anual;2024;99,759
+01.2.9.0 Otras bebidas no alcohólicas;Media anual;2023;97,723
+01.2.9.0 Otras bebidas no alcohólicas;Media anual;2022;88,679
+01.2.9.0 Otras bebidas no alcohólicas;Media anual;2021;82,935
+01.2.9.0 Otras bebidas no alcohólicas;Media anual;2020;74,945
+01.2.9.0 Otras bebidas no alcohólicas;Media anual;2019;""
+02.1.1.0 Bebidas espirituosas y licores;Media anual;2025;100,000
+02.1.1.0 Bebidas espirituosas y licores;Media anual;2024;99,496
+02.1.1.0 Bebidas espirituosas y licores;Media anual;2023;97,444
+02.1.1.0 Bebidas espirituosas y licores;Media anual;2022;91,286
+02.1.1.0 Bebidas espirituosas y licores;Media anual;2021;87,965
+02.1.1.0 Bebidas espirituosas y licores;Media anual;2020;89,132
+02.1.1.0 Bebidas espirituosas y licores;Media anual;2019;88,130
+02.1.2.1 Vino de uva;Media anual;2025;100,000
+02.1.2.1 Vino de uva;Media anual;2024;98,966
+02.1.2.1 Vino de uva;Media anual;2023;96,999
+02.1.2.1 Vino de uva;Media anual;2022;91,739
+02.1.2.1 Vino de uva;Media anual;2021;86,181
+02.1.2.1 Vino de uva;Media anual;2020;88,020
+02.1.2.1 Vino de uva;Media anual;2019;88,169
+02.1.3.0 Cerveza;Media anual;2025;100,000
+02.1.3.0 Cerveza;Media anual;2024;98,794
+02.1.3.0 Cerveza;Media anual;2023;96,809
+02.1.3.0 Cerveza;Media anual;2022;85,720
+02.1.3.0 Cerveza;Media anual;2021;80,379
+02.1.3.0 Cerveza;Media anual;2020;79,675
+02.1.3.0 Cerveza;Media anual;2019;77,240
+02.1.9.0 Otras bebidas alcohólicas;Media anual;2025;""
+02.1.9.0 Otras bebidas alcohólicas;Media anual;2024;""
+02.1.9.0 Otras bebidas alcohólicas;Media anual;2023;""
+02.1.9.0 Otras bebidas alcohólicas;Media anual;2022;""
+02.1.9.0 Otras bebidas alcohólicas;Media anual;2021;""
+02.1.9.0 Otras bebidas alcohólicas;Media anual;2020;""
+02.1.9.0 Otras bebidas alcohólicas;Media anual;2019;""

@@ -1,0 +1,25 @@
+producto;codigos_ipc;ajuste;nota
+Total alimentación;;referencia;Se compara con el Índice general del IPC (no hay subclase equivalente)
+Huevos;01.1.4.8;exacto;
+Leche líquida;01.1.4.1|01.1.4.2;aproximado;Media simple de leche entera y desnatada/semidesnatada
+Yogur;01.1.4.6;exacto;
+Queso;01.1.4.5;exacto;
+Aceite de oliva;01.1.5.1;agregado;El IPC agrupa todos los aceites vegetales
+Aceite de girasol;01.1.5.1;agregado;El IPC agrupa todos los aceites vegetales
+Azúcar;01.1.8.1;exacto;
+Pan;01.1.1.3;exacto;
+Arroz;01.1.1.1;agregado;El IPC agrupa el arroz con el resto de cereales
+Pasta;01.1.1.5;exacto;
+Legumbres;01.1.7.6;aproximado;El IPC solo recoge legumbres secas, el MAPA incluye cocidas
+Pollo;01.1.2.2;agregado;El IPC agrupa toda la carne fresca
+Cerdo;01.1.2.2;agregado;El IPC agrupa toda la carne fresca
+Vacuno;01.1.2.2;agregado;El IPC agrupa toda la carne fresca
+Pescado;01.1.3.1;aproximado;IPC: pescado fresco/congelado, MAPA: total pesca (incluye marisco y conservas)
+Patatas frescas;01.1.7.5;exacto;IPC incluye otros tubérculos
+Frutas frescas;01.1.6.1|01.1.6.2|01.1.6.3|01.1.6.4|01.1.6.5;aproximado;Media simple de las subclases de fruta fresca
+Plátanos;01.1.6.1;agregado;El IPC agrupa frutas tropicales, dátiles e higos
+Hortalizas frescas;01.1.7.1|01.1.7.2|01.1.7.4;aproximado;Media simple de las subclases de hortalizas frescas
+Tomates;01.1.7.2;agregado;El IPC agrupa hortalizas cultivadas por su fruto
+Café e infusiones;01.2.2.0;aproximado;IPC: solo café (el té va aparte)
+Cerveza;02.1.3.0;exacto;
+Agua envasada;01.2.5.0;exacto;

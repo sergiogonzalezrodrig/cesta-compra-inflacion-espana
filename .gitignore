@@ -1,0 +1,9 @@
+# Entorno virtual
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Archivos temporales de Excel / Power BI
+~$*.xlsx
+*.pbix.bak
